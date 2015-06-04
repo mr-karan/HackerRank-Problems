@@ -1,4 +1,3 @@
-# HackerRank-Python
-My codes for Python tutorials on HackerRank : https://www.hackerrank.com/domains/miscellaneous/python-tutorials
+# HackerRank-Problems
 
-These are some of my solutions of Python Tutorial (Miscelleneous Domain) on HackerRank , which I used for learning basic Python syntax.
+I am using this to store all the codes of problems solved on HackerRank by me till now.You'll be responsible if you plagiarize the code and found guilty of it. 
