@@ -11,9 +11,9 @@ n = input()
 sticks = map(int, raw_input().strip().split(" "))
 
 
-sticks=sorted(sticks,reverse=True)
-while(len(sticks)>0):
+sticks = sorted(sticks, reverse=True)
+while(len(sticks) > 0):
     print len(sticks)
-    leastnum=sticks.pop()
-    while len(sticks)>0 and sticks[-1]<=leastnum:
+    leastnum = sticks.pop()
+    while len(sticks) > 0 and sticks[-1] <= leastnum:
         sticks.pop()
