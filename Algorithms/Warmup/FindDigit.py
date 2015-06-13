@@ -9,5 +9,5 @@ for i in range(n):
         if numlist[j] == 0:
             continue
         elif numint % (numlist[j]) == 0:
-            flag = 1 + flag
+            flag += 1
     print flag
