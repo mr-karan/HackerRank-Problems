@@ -7,3 +7,4 @@ Domain :
 - [ ] Algorithms
 - [ ] Python
 - [ ] Java
+- [ ] Data Structures
